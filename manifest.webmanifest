@@ -1,0 +1,12 @@
+{
+  "name": "Platform 'n watch",
+  "short_name": "Platform 'n watch",
+  "id": "com.example.platform.watch",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
